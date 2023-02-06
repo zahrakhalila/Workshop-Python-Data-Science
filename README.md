@@ -3,3 +3,6 @@
 WORKSHOP OF PYTHON DATA SCIENCE FOR RESEARCH
 
 By: belajarberbagiid
+
+
+Zahra Khalila Salsabila
